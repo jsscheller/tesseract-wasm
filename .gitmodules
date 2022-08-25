@@ -1,0 +1,18 @@
+[submodule "lib/libjpeg-turbo"]
+	path = lib/libjpeg-turbo
+	url = https://github.com/libjpeg-turbo/libjpeg-turbo
+[submodule "lib/libpng"]
+	path = lib/libpng
+	url = https://github.com/glennrp/libpng
+[submodule "lib/tiff"]
+	path = lib/tiff
+	url = https://github.com/ImageMagick/tiff.git
+[submodule "lib/zlib-ng"]
+	path = lib/zlib-ng
+	url = https://github.com/zlib-ng/zlib-ng.git
+[submodule "lib/leptonica"]
+	path = lib/leptonica
+	url = https://github.com/DanBloomberg/leptonica
+[submodule "lib/tesseract"]
+	path = lib/tesseract
+	url = https://github.com/tesseract-ocr/tesseract

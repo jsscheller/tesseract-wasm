@@ -1,0 +1,19 @@
+{
+  "name": "@jspawn/tesseract-wasm",
+  "version": "0.0.2",
+  "description": "tesseract compiled to WASM",
+  "main": "gs.js",
+  "module": "gs.mjs",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha.js tests --node-option no-wasm-tier-up"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsscheller/tesseract-wasm.git"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "dependencies": {}
+}
